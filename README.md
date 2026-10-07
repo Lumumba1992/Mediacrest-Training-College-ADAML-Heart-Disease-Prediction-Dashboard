@@ -1,2 +1,2 @@
-# Mediacrest-Training-College-ADAML-Heart-Disease-Prediction-Dashboard
-This is a dashoboard for heart disease prediction developed trainees at Mediacrest Training College pursuing Advanced Data Analysis and Machine Learning
+# Heart-Disease-Prediction-Dashboard-August-2026
+Welcome to the Heart Disease Diagnostic Dashboard. This application uses machine learning models to predict the presence of Atherosclerotic Heart Disease based on patient clinical data
